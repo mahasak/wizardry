@@ -1,4 +1,4 @@
-# Initial page
+# Wizardry project
 
 ## Getting Super Powers
 
